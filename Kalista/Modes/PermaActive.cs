@@ -1,7 +1,11 @@
-﻿using System.Linq;
-using EloBuddy;
-using EloBuddy.SDK;
-using Settings = Hellsing.Kalista.Config.Misc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using LeagueSharp;
+using LeagueSharp.Common;
 
 namespace Hellsing.Kalista.Modes
 {
